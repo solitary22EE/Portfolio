@@ -397,7 +397,7 @@ nav .fas {
 @media only screen and (max-width: 600px){
 
     #header {
-        background-image: url(Images/Small_page.png);
+        background-image: url(Images/black_screen.png);
     }
 
     .header-text {
