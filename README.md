@@ -7,7 +7,7 @@ This is a personal portfolio website created using HTML and CSS. The website sho
 You can view the live version of the portfolio website at the following link:  
 [Portfolio Website](https://solitary22ee.github.io/Portfolio/)
 
-## Features
+## Features and use
 
 - Showcases my skills and experience
 - Displays completed projects
