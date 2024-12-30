@@ -5,7 +5,7 @@ This is a personal portfolio website created using HTML and CSS. The website sho
 ## Live Website
 
 You can view the live version of the portfolio website at the following link:  
-[Portfolio Website](https://solitary22ee.github.io/Portfolio/)
+[Portfolio Website](https://portfolio-solitary22ees-projects.vercel.app/)
 
 ## Features and use
 
